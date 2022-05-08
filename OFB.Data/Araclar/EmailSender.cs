@@ -16,7 +16,7 @@ namespace OFB.Data.Araclar
             {
                 SmtpClient server = new SmtpClient();
                 MailMessage mesaj = new MailMessage();
-                server.Credentials = new System.Net.NetworkCredential("csharpofb@gmail.com", "omerfarukbacaksiz123");
+                server.Credentials = new System.Net.NetworkCredential("****************", "*********");
                 server.Port = 587;
                 server.Host = "smtp.gmail.com";
                 server.EnableSsl = true;

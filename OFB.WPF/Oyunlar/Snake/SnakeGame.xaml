@@ -1,0 +1,37 @@
+﻿<Window x:Class="OFB.WPF.Oyunlar.Snake.SnakeGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.Oyunlar.Snake"
+        mc:Ignorable="d"
+  Title="Yılan Oyunu" Height="620" Width="985" Background="#FF2D3241"  Icon="/OFB.WPF;component/favicon.ico" WindowStartupLocation="CenterScreen" Closed="Window_Closed" ResizeMode="NoResize" WindowStyle="None">
+    <Grid MouseDown="Grid_MouseDown">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*" />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Name="paintCanvas" Background="White"
+                Grid.Column="1" HorizontalAlignment="Stretch" MaxWidth="825" MaxHeight="585" Margin="180,30,0,0">
+        </Canvas>
+
+        <Label x:Name="label3111" Content="Skor:" Grid.Column="1" Foreground="#FFBEBEBE" HorizontalAlignment="Left" Margin="0,88,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="15"/>
+        <Button Content="X" Style="{DynamicResource minibutonlar}" x:Name="btnKapat" FontSize="18" Click="btnKapat_Click" Width="36" Height="30" Grid.Column="1" Margin="947,0,2,590"/>
+        <Button x:Name="btnBaslat"  Content="Oyunu Başlat" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="167" Margin="6,445,0,0" Height="45" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="19" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="5" Click="button_Click" IsDefault="True" Cursor="Hand" Grid.ColumnSpan="2" RenderTransformOrigin="0.63,-0.848"/>
+        <Label x:Name="label_Copy" Content="Yılan Hızı:" Grid.Column="1" Foreground="#FFBEBEBE" HorizontalAlignment="Left" Margin="0,120,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="15"/>
+        <Label x:Name="label_Copy1" Content="Normal" Grid.Column="1" Foreground="White" HorizontalAlignment="Left" Margin="75,120,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="15"/>
+        <Label x:Name="label" Content="0" Grid.Column="1" Foreground="White" HorizontalAlignment="Left" Margin="45,88,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="15"/>
+        <Button x:Name="btnDurdur" Style="{DynamicResource userKontolKitapEkleButon}" Content="Oyunu Durdur" HorizontalAlignment="Left" Width="167" Margin="6,503,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="8" Click="button_Copy1_Click" Cursor="Hand" Grid.Column="1"/>
+        <Button x:Name="btnDevam" Style="{DynamicResource userKontolKitapEkleButon}" Content="Devam Et" HorizontalAlignment="Left" Width="167" Margin="6,563,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="8" Click="btnDevam_Click" Cursor="Hand" Grid.ColumnSpan="2"/>
+        <RichTextBox x:Name="richTextBox_Copy3" HorizontalAlignment="Left" Height="98" Margin="0,226,0,0" VerticalAlignment="Top" Width="173" BorderBrush="{x:Null}" BorderThickness="0" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="#FF01BEFF" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0" Grid.ColumnSpan="2" IsEnabled="False">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="• Oyunu başalttıkdan sonra yön tuşları ile yılanı hareket ettirebilirsiniz"/>
+
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+
+</Window>

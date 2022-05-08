@@ -1,0 +1,207 @@
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\OFB.WPF.exe.config
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\OFB.WPF.exe
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\OFB.WPF.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\FakeData.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\itextsharp.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\OFB.Data.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\WpfAnimatedGif.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\OFB.Data.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\FakeData.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\itextsharp.xml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Release\WpfAnimatedGif.xml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenterMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoading.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupOutputMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupResultMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\MailSender\EmailSend.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Exit.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Home.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\HomeDemo.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Login.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Register.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\RegisterSozlesme.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Test\Window1.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Iletisim.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Konular.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Oyunlar.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Programlar.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_YoneticiIslem.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\KullaniciList.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\App.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF_MarkupCompile.cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF_MarkupCompile.lref
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\App.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenterMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoading.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupOutputMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupResultMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\LiveRadio\RadioFirstPage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\MailSender\EmailSend.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Exit.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Home.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\HomeDemo.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Login.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\Register.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\RegisterSozlesme.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Test\Window1.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa_Quesion.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_BilgileriGuncelle.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Iletisim.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Konular.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Oyunlar.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Programlar.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_YoneticiIslem.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\KullaniciList.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.g.resources
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.Properties.Resources.resources
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.csproj.GenerateResource.Cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.exe
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenter2Message.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoadingNoTime.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\PCClear\PCClearHome.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\ExitNoNet.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenter2Message.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoadingNoTime.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Programlar\PCClear\PCClearHome.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Release\Temel\ExitNoNet.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Release\OFB.WPF.exe.config
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.exe
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.pdb
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\GirileniYazma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\IkiSayininOrtalamasi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\MarketProgrami.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\Sayac.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\SayininKaresi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Baslangic\ToplamaIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Class\DegerYollama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Class\DortIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Class\SayininKupVeKaresi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Class\UcgeninDurumu.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\AddPlus10.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\DiziAylar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\DizilerdeMetotlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\DiziyeRandomEleman.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\SesliHarfler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Dizi\TerseCevir.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\DoWhile\CarpimTablo.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\DoWhile\Random8.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\DoWhile\RandomSayi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\DoWhile\Yirmiser.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Events\GirisCikis.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Events\MouseHoverForm.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Events\RakamRandom.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Events\TextboxChange.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\Alfabe.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\ForIleToplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\IsimYazdirma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\SayininKuvveti.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\SekizDokuz.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\For\Ucgen.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\IfElse\Cevirme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\IfElse\HangiSayiBuyuk.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\IfElse\SayiNegatifPozitif.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\IfElse\SayiTekCift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\IfElse\UserLoginIslemi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Interface\IkiSayiOrtalama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Interface\Musteri.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Interface\Ucgen.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Kalitim\AlanCevre.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Kalitim\IkiSayiToplami.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Kalitim\OgrenciAdd.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Metot\SayiTekCift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Metot\WhoMax.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Metot\YuzKezIsim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Metot\ZamUygulama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\OrnekKontrol\KaynakKodlari.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\OrnekKontrol\UserControl1.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\SwitchCase\GunBulma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\SwitchCase\MevsimBulma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\SwitchCase\RenkDegisme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Temsilci\AHarfSilme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Temsilci\BuyukHarf.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Temsilci\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Temsilci\KucukHarf.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Temsilci\Metotlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\CheckUrunToplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\ComboElemanKare.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\ComboElemanSilEkle.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\DortIslemRadiobutton.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\ElemanEkleme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\ElemanSilme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\IkıVeUc.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\KDVRadioButton.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\OgrenciIndirim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\SecilenEleman.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\TimerKronometre.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\Toolbox\TimerListboxVeri.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\TryCatchFinally\Cikartma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\TryCatchFinally\Ortalama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\TryCatchFinally\Toplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\While\Aralikli.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\While\Cift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\While\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\While\Kare.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ornekler\While\Toplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\Degiskenler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\DoWhile.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\For.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\IfElse.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\Kalitim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\Metot.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\OzetKontrol\UserControl1.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\SwitchCase.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\Temsilci.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\ToolBox.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\TryCatchFinally.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\While.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\_Class.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\_Diziler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\_Events.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Konular\Ozetler\_Interface.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenter2Message.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupCenterMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoading.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupLoadingNoTime.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupOutputMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\MessageBox\PopupResultMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Oyunlar\Snake\SnakeGame.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Programlar\DovizListesi\Dovizler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Programlar\MailSender\EmailSend.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Programlar\QRCode_Olusturucu\QRCode_Create_.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Programlar\WebCam_\WebCamera.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\Exit.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\ExitNoNet.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\HomeDemo.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\Login.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\Register.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\Temel\RegisterSozlesme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Iletisim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Konular.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Oyunlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_Programlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\UserControls\Control_YoneticiIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\KullaniciList.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\ProgramLogs.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\UserAddAndDelete.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\userBlock.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\UserGuncelleAndSearch.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\YoneticiIslem\UserPerms.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\App.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF_MarkupCompile.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Release\OFB.WPF_MarkupCompile.lref

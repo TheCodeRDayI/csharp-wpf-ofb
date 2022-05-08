@@ -1,0 +1,143 @@
+﻿<UserControl x:Class="OFB.WPF.Konular.Ornekler.OrnekKontrol.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.Konular.Ornekler.OrnekKontrol"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="1000" Height="660" Background="#FF222431">
+    <Grid>
+        <Label x:Name="label12" Content="Konu Seçiniz:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="11,11,0,0" Width="127" Foreground="#FFBEBEBE" FontWeight="Bold" FontSize="18"/>
+
+        <ComboBox x:Name="comboBox"  Style="{DynamicResource ComboBoxFlatStyle}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="163" SelectionChanged="comboBox_SelectionChanged" Margin="143,19,0,0">
+            <ComboBoxItem Content="Başlangıç"/>
+            <ComboBoxItem Content="Toolbox"/>
+            <ComboBoxItem Content="İf Else"/>
+            <ComboBoxItem Content="Switch Case"/>
+            <ComboBoxItem Content="For"/>
+            <ComboBoxItem Content="While"/>
+            <ComboBoxItem Content="Do While"/>
+            <ComboBoxItem Content="Try Catch Finally"/>
+            <ComboBoxItem Content="Metot"/>
+            <ComboBoxItem Content="Class"/>
+            <ComboBoxItem Content="Diziler"/>
+            <ComboBoxItem Content="Katılım"/>
+            <ComboBoxItem Content="Interface"/>
+            <ComboBoxItem Content="Temsilciler"/>
+            <ComboBoxItem Content="Events"/>
+        </ComboBox>
+        <Border BorderBrush="#FF015AFF" BorderThickness="0,2,0,0" Margin="0,59,0,0">
+            <Grid x:Name="Content_Icerik2" Margin="0">
+
+            </Grid>
+        </Border>
+        <ComboBox x:Name="comboBaslangic" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboBox_Copy_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Girileni Yazdırma</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayıları Toplama</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayının Karesi</ComboBoxItem>
+            <ComboBoxItem>İki Sayının Ortalaması</ComboBoxItem>
+            <ComboBoxItem>Sayaç</ComboBoxItem>
+            <ComboBoxItem>Market Programı</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboIfElse" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboIfElse_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Girilen Sayılardan Büyük Olanı Bulma</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayıların Durumu</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayının Tek- Çift Olduğunu Bulma</ComboBoxItem>
+            <ComboBoxItem>Kullanıcı Login İşlemi</ComboBoxItem>
+            <ComboBoxItem>100'lük Sistemi 5'lik Sisteme Çevirme</ComboBoxItem>
+
+        </ComboBox>
+        <ComboBox x:Name="comboSwitchCase" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboSwitchCase_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Hangi Günde Olduğumu Bulma</ComboBoxItem>
+            <ComboBoxItem>Hangi Mevsimdeyiz ?</ComboBoxItem>
+            <ComboBoxItem>Yazı Rengini Değiştirme</ComboBoxItem>
+
+        </ComboBox>
+        <ComboBox x:Name="comboFor" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboFor_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>İsim Yazdırma</ComboBoxItem>
+            <ComboBoxItem>1+2+3+...+20 Şeklinde Yazdırma</ComboBoxItem>
+            <ComboBoxItem>Faktöriyel Hesabı</ComboBoxItem>
+            <ComboBoxItem>Alfabe</ComboBoxItem>
+            <ComboBoxItem>Üçgen Oluşturma</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayının Kuvvetini Bulma</ComboBoxItem>
+            <ComboBoxItem>Aralıkdaki Sayıların 8'e ve 9'a Bölünenler</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboWhile" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboWhile_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Faktöriyel Hesabı</ComboBoxItem>
+            <ComboBoxItem>10-50 Arası Çift Sayılar Toplamı</ComboBoxItem>
+            <ComboBoxItem>0'dan Kullanıcının Girdiği Sayıya Kadar Toplama</ComboBoxItem>
+            <ComboBoxItem>0'dan 100'e Aralıklı Yazdırma</ComboBoxItem>
+            <ComboBoxItem>While Döngüsü İle Kare Yapımı</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboDoWhile" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboDoWhile_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>0-200 Arası 20'şer 20'şer Yazdırma</ComboBoxItem>
+            <ComboBoxItem>Random Sayılardan 8'i Kaçta Bulduğunu Bulma</ComboBoxItem>
+            <ComboBoxItem>İstenilen Çarpım Tablosu</ComboBoxItem>
+            <ComboBoxItem>Random Sayı Üretme</ComboBoxItem>
+
+        </ComboBox>
+        <ComboBox x:Name="comboTryCatchFinally" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboTryCatchFinally_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Toplama İşlemi</ComboBoxItem>
+            <ComboBoxItem>3 Sayının Ortalaması</ComboBoxItem>
+            <ComboBoxItem>Çıkartma İşlemi</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboMetot" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboMetot_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>100 Kez İsim Yazdırma</ComboBoxItem>
+            <ComboBoxItem>Sayı Tek Mi, Çift Mi Bulan Program</ComboBoxItem>
+            <ComboBoxItem>Hangi Sayı Daha Büyük</ComboBoxItem>
+            <ComboBoxItem>2000 TL Zam Uygulama</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboClass" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboClass_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Class'a Değer Gönderme Ve Çekme</ComboBoxItem>
+            <ComboBoxItem>4 İşlemli Hesap Makinesi</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayının Karesi Ve Küpünü Bulma</ComboBoxItem>
+            <ComboBoxItem>Üçgenin Durumunu Gösteren Program</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboDizi" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboDizi_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Diziye Random 5 Eleman Atama</ComboBoxItem>
+            <ComboBoxItem>Dizi Metotlarının Kullanımı</ComboBoxItem>
+            <ComboBoxItem>Girilen Metindeki Sesli Harf Sayısını Bulma</ComboBoxItem>
+            <ComboBoxItem>Girilen Metini Terse Çevirmek</ComboBoxItem>
+            <ComboBoxItem>Ayları Dizi İle Görüntüleme</ComboBoxItem>
+            <ComboBoxItem>Dizideki Elemanlara +10 Ekleme</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboKalitim" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboKalitim_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Alan Ve Çevre Bulma</ComboBoxItem>
+            <ComboBoxItem>Girilen 2 Sayının Toplamı</ComboBoxItem>
+            <ComboBoxItem>Veri Ekleme Programı</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboInterface" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboInterface_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Girilen 2 Sayının Ortalaması</ComboBoxItem>
+            <ComboBoxItem>Müşterilerin Ürünleri</ComboBoxItem>
+            <ComboBoxItem>2 Açısı Girilen Üçgenin 3. Açısını Bulma</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboTemsilci" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboTemsilci_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Temsilci Metotları</ComboBoxItem>
+            <ComboBoxItem>Girilen Metini Büyük Harflere Çevirme</ComboBoxItem>
+            <ComboBoxItem>Girilen Metini Küçük Harflere Çevirme</ComboBoxItem>
+            <ComboBoxItem>Girilen Metindeki 'a' Harflerini Silme</ComboBoxItem>
+            <ComboBoxItem>Girilen Sayının Faktöriyeli</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="comboEvents" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboEvents_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Temsilci Metotları</ComboBoxItem>
+            <ComboBoxItem>Girilen Metini Anında Görme</ComboBoxItem>
+            <ComboBoxItem>Program Girişinde Mesaj</ComboBoxItem>
+            <ComboBoxItem>Yalnız Rakam/Harf İzini</ComboBoxItem>
+
+        </ComboBox>
+        <ComboBox x:Name="comboToolbox" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" Text="Lütfen bir tane örnek seçiniz"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" SelectionChanged="comboToolbox_SelectionChanged" Margin="453,19,0,0">
+            <ComboBoxItem>Listbox | Eleman Ekleme</ComboBoxItem>
+            <ComboBoxItem>Listbox | Eleman Silme</ComboBoxItem>
+            <ComboBoxItem>Listbox | Seçilen Elemanı Silme</ComboBoxItem>
+            <ComboBoxItem>Listbox | Random Sayılardan 2 Ve 3'e Bölünme Durumları</ComboBoxItem>
+            <ComboBoxItem>Combobox | Eleman Ekleme Ve Silme</ComboBoxItem>
+            <ComboBoxItem>Combobox | Seçilen Sayının Karesi</ComboBoxItem>
+            <ComboBoxItem>Checkbox | Seçilen Ürünleri Toplama</ComboBoxItem>
+            <ComboBoxItem>Checkbox | Öğrenciye İndirim Uygulama</ComboBoxItem>
+            <ComboBoxItem>Radiobutton | Girilen Sayılarla 4 İşlem</ComboBoxItem>
+            <ComboBoxItem>Radiobutton | Girilen Fiyata KDV Ekleme</ComboBoxItem>
+            <ComboBoxItem>Timer | Saniyede Listbox'a Değer Gönderme</ComboBoxItem>
+            <ComboBoxItem>Timer | Kronometre</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</UserControl>

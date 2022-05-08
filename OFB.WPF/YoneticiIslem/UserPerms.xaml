@@ -1,0 +1,126 @@
+﻿<Window x:Class="OFB.WPF.YoneticiIslem.UserPerms"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.YoneticiIslem"
+        mc:Ignorable="d"
+       Title="Kullanıcı Yetkileri" Height="620" Width="950" Icon="/OFB.WPF;component/favicon.ico" Background="#FF222431" WindowStartupLocation="CenterScreen" WindowStyle="None" Closed="Window_Closed" ResizeMode="NoResize">
+    <Grid x:Name="grid1" Width="950">
+        <StackPanel HorizontalAlignment="Left" Height="30" MouseDown="StackPanel_MouseDown" VerticalAlignment="Top" Width="987" Background="#FF2D3241" Margin="-20,0,-17,0">
+            <DockPanel Width="40" HorizontalAlignment="Right" Margin="0,0,21,0">
+
+                <Button Content="X" Style="{DynamicResource minibutonlar}" x:Name="btnKapat" FontSize="18" Click="thisWindowClose_Click" Width="36" Height="30"/>
+            </DockPanel>
+        </StackPanel>
+        <DataGrid HeadersVisibility="Column" Style="{DynamicResource DataGridStyle1}" AutoGenerateColumns="False" x:Name="dataGrid1" HorizontalAlignment="Left" Margin="0,353,0,0" VerticalAlignment="Top" IsReadOnly="True" RowHeight="25" CanUserAddRows="False" CanUserSortColumns="True" CanUserDeleteRows="False" CanUserResizeColumns="False" CanUserResizeRows="False"  Height="259" Width="950" Background="White" Foreground="#FF042264" HorizontalGridLinesBrush="Gray" VerticalGridLinesBrush="#FFBBBBBB">
+
+            <DataGrid.Columns>
+                <DataGridTemplateColumn  MinWidth="50" Header="" IsReadOnly="True" TextBlock.TextAlignment="Center"  TextElement.FontStretch="Expanded">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="gridButton" Style="{DynamicResource menubutton}" HorizontalAlignment="Center" Padding="0"  VerticalAlignment="Center" Height="30" Content=" Düzenle  " Click="gridButton_Click" Cursor="Hand"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="Background" Value="#2e61af"/>
+                            <Setter Property="BorderThickness" Value="5,0,0,0"/>
+                            <Setter Property="BorderBrush" Value="#FF134187"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter Property="Background" Value="#FF134187"/>
+                                    <Setter Property="BorderThickness" Value="5,0,0,0"/>
+                                    <Setter Property="BorderBrush" Value="White"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                </Trigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTemplateColumn.CellStyle>
+                </DataGridTemplateColumn>
+
+                <DataGridTextColumn Binding="{Binding Path=KullanıcıAdı}" MinWidth="55" Header="Kullanıcı Adı" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left"/>
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridCheckBoxColumn Binding="{Binding Path=Admin_Yetkisi}" Header="Admin Yetkisi" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                    <DataGridCheckBoxColumn.ElementStyle>
+                        <Style TargetType="CheckBox">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridCheckBoxColumn.ElementStyle>
+                </DataGridCheckBoxColumn>
+                <DataGridCheckBoxColumn Binding="{Binding Path=Konular_Yetkisi}" Header="Konular Yetkisi" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                    <DataGridCheckBoxColumn.ElementStyle>
+                        <Style TargetType="CheckBox">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridCheckBoxColumn.ElementStyle>
+                </DataGridCheckBoxColumn>
+                <DataGridCheckBoxColumn Binding="{Binding Path=Programlar_Yetkisi}" Header="Programlar Yetkisi" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                    <DataGridCheckBoxColumn.ElementStyle>
+                        <Style TargetType="CheckBox">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridCheckBoxColumn.ElementStyle>
+                </DataGridCheckBoxColumn>
+                <DataGridCheckBoxColumn Binding="{Binding Path=Oyunlar_Yetkisi}" Header="Oyunlar Yetkisi" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                    <DataGridCheckBoxColumn.ElementStyle>
+                        <Style TargetType="CheckBox">
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridCheckBoxColumn.ElementStyle>
+                </DataGridCheckBoxColumn>
+
+
+
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBox x:Name="textBox" IsEnabled="False" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="315" Margin="138,70,0,0" Background="{x:Null}" FontSize="15" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="2"  MaxLength="30"/>
+        <Label x:Name="label1" Content="Kullanıcı Adı"  HorizontalAlignment="Left" Margin="138,44,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy" Content="Admin Yetkisi"  HorizontalAlignment="Left" Margin="138,137,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy1" Content="Konular Örneği"  HorizontalAlignment="Left" Margin="138,224,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy2" Content="Programlar Yetkisi"  HorizontalAlignment="Left" Margin="504,49,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy3" Content="Oyunlar Yetkisi"  HorizontalAlignment="Left" Margin="504,137,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button x:Name="button" IsDefault="True" Content="Kullanıcıyı Güncelle" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="315" Margin="504,240,0,0" Height="40" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="17" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="0" Click="button_Click"  Cursor="Hand"/>
+        <ComboBox x:Name="combobox1" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="315" Margin="138,171,0,0">
+            <ComboBoxItem Content="Evet"/>
+            <ComboBoxItem Content="Hayır"/>
+        </ComboBox>
+        <ComboBox x:Name="combobox1_Copy" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="315" Margin="138,258,0,0">
+            <ComboBoxItem Content="Evet"/>
+            <ComboBoxItem Content="Hayır"/>
+        </ComboBox>
+        <ComboBox x:Name="combobox1_Copy1" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="315" Margin="504,80,0,0">
+            <ComboBoxItem Content="Evet"/>
+            <ComboBoxItem Content="Hayır"/>
+        </ComboBox>
+        <ComboBox x:Name="combobox1_Copy2" Style="{DynamicResource ComboBoxFlatStyle}" IsEditable="True" IsReadOnly="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="315" Margin="504,168,0,0">
+            <ComboBoxItem Content="Evet"/>
+            <ComboBoxItem Content="Hayır"/>
+        </ComboBox>
+
+    </Grid>
+</Window>

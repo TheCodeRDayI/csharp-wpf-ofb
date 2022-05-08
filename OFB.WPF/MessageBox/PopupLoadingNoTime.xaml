@@ -1,0 +1,21 @@
+﻿<Window x:Class="OFB.WPF.MessageBox.PopupLoadingNoTime"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.MessageBox"
+          xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        mc:Ignorable="d"
+      Height="254.131" Width="378.913" Title="Loading" WindowState="Maximized"  ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="None"  Icon="/OFB.WPF;component/Images/Favicon/favicon.ico" ShowInTaskbar="False"
+                 AllowsTransparency="True">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.5" Color="White"/>
+    </Window.Background>
+    <Grid Background="White"  Height="254.131" Width="378.913" x:Name="gridd">
+        <Label x:Name="label" Content="Lütfen Bekleyiniz..." HorizontalAlignment="Left" Margin="15,26,0,0" VerticalAlignment="Top" FontSize="30" FontFamily="Microsoft YaHei"/>
+        <Image x:Name="image"  HorizontalAlignment="Center" Stretch="None" Height="106" Margin="144,112,133,36" VerticalAlignment="Center" Width="102" gif:ImageBehavior.AnimatedSource="/OFB.WPF;component/Images/Gif/loading2.gif"/>
+        <Label x:Name="label_Copy" Content="Yükleniyor..." HorizontalAlignment="Left" Margin="148,217,0,0" VerticalAlignment="Top" FontSize="15" FontFamily="Microsoft YaHei"/>
+
+
+    </Grid>
+</Window>

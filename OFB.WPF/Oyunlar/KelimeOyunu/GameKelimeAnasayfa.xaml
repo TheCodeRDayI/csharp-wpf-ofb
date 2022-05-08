@@ -1,0 +1,113 @@
+﻿<Window x:Class="OFB.WPF.Oyunlar.KelimeOyunu.GameKelimeAnasayfa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.Oyunlar.KelimeOyunu"
+        mc:Ignorable="d"
+        Title="Kelime Oyunu" Height="620" Width="945" Background="#FF222431" Loaded="Window_Loaded" Icon="/OFB.WPF;component/favicon.ico" WindowStartupLocation="CenterScreen" Closed="Window_Closed" ResizeMode="NoResize" WindowStyle="None">
+    <Grid MouseDown="Grid_MouseDown">
+        <StackPanel HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="945" Background="#FF2D3241">
+            <DockPanel Width="60" HorizontalAlignment="Right">
+                <Button Content="X" Style="{DynamicResource minibutonlar}" x:Name="btnKapat" FontSize="18" Click="btnKapat_Click" Width="36" Height="30"/>
+            </DockPanel>
+        </StackPanel>
+      
+        <TabControl Margin="0,35,0,0" Background="#FF222431" >
+            <TabControl.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TabItem">
+                                <Border Name="Border" BorderThickness="1,1,1,0" BorderBrush="Gainsboro" CornerRadius="6,6,0,0" Margin="2,0">
+                                    <ContentPresenter x:Name="ContentSite"
+                                        VerticalAlignment="Center"
+                                        HorizontalAlignment="Center"
+                                        ContentSource="Header"
+                                        Margin="10,4"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="LightSkyBlue" />
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="False">
+                                        <Setter TargetName="Border" Property="Background" Value="GhostWhite" />
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+            <TabItem Header="Anasayfa">
+                <Grid>
+                    <Label x:Name="label" Content="Yazılacak Kelime:" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="35,111,0,0" FontSize="14" FontFamily="Arial" Foreground="#FFC4C4C4"/>
+                    <Label x:Name="txtYeniKelime" Content="- - - - - - - - - - - - - -" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="173,111,0,0" FontSize="14" FontFamily="Arial" Foreground="White" Width="400"/>
+                    <Label x:Name="label2" Content="Kelimeniz:" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="35,156,0,0" FontSize="14" FontFamily="Arial" Foreground="#FFC4C4C4" RenderTransformOrigin="0.493,0.744"/>
+                    <TextBox x:Name="txtYazilacak" TextChanged="txtYazilacak_TextChanged" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" Margin="173,155,0,0" Background="{x:Null}" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="White" FontSize="15" TabIndex="1" HorizontalContentAlignment="Center"/>
+                    <Button x:Name="button_Copy2" Content="Oyunu Bitir" Style="{DynamicResource userKontolKitapEkleButon}" HorizontalAlignment="Left" Width="235"  Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="14" Click="button_Copy2_Click" Cursor="Hand" Margin="35,387,0,0"/>
+                    <Button x:Name="button" Content="Oyuna Başla" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="235" Margin="338,387,0,0" Height="45" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="5" Click="button_Click" IsDefault="True" Cursor="Hand"/>
+                    <Label x:Name="label2_Copy" Content="Doğru Kelime Sayısı:" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="35,237,0,0" FontSize="14" FontFamily="Arial" Foreground="#FFC4C4C4" RenderTransformOrigin="0.493,0.744"/>
+                    <Label x:Name="label2_Copy1" Content="Kalan Süre:" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="35,268,0,0" FontSize="14" FontFamily="Arial" Foreground="#FFC4C4C4" RenderTransformOrigin="0.493,0.744"/>
+                    <Label x:Name="label2_Copy2" Content="Puan:" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="35,299,0,0" FontSize="14" FontFamily="Arial" Foreground="#FFC4C4C4" RenderTransformOrigin="0.493,0.744"/>
+                    <TextBox x:Name="txtdogru" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Width="133" Margin="182,237,0,0" Background="{x:Null}" BorderBrush="White" BorderThickness="0" Foreground="White" FontSize="15" IsReadOnly="True" TabIndex="0"/>
+                    <TextBox x:Name="txtsure" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Width="133" Margin="182,271,0,0" Background="{x:Null}" BorderBrush="White" BorderThickness="0" Foreground="White" FontSize="15" IsReadOnly="True" TabIndex="0"/>
+                    <TextBox x:Name="txtpuan" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Width="133" Margin="182,299,0,0" Background="{x:Null}" BorderBrush="White" BorderThickness="0" Foreground="White" FontSize="15" IsReadOnly="True" TabIndex="0"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Nasıl Oynanır?" >
+                <Grid>
+                    <RichTextBox x:Name="richTextBox_Copy" HorizontalAlignment="Left" Height="531" VerticalAlignment="Top" Width="915" Margin="10,10,0,0" BorderThickness="0" Background="{x:Null}" Foreground="#F9FAFAFA" FontSize="15" IsReadOnly="True" FontFamily="Century Gothic">
+                        <FlowDocument>
+                            <Paragraph>
+                                <Run Text="Hello World"/>
+                            </Paragraph>
+                        </FlowDocument>
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Sıralama" >
+                <Grid>
+                    <DataGrid HeadersVisibility="Column"  Style="{DynamicResource DataGridStyle1}" AutoGenerateColumns="False" x:Name="dataGrid1" HorizontalAlignment="Left" Margin="0,10,-15,-61" VerticalAlignment="Top" IsReadOnly="True" RowHeight="25" CanUserAddRows="False" CanUserSortColumns="True" CanUserDeleteRows="False" CanUserResizeColumns="False" CanUserResizeRows="False"  Height="602" Width="950" Background="White" Foreground="#FF042264" HorizontalGridLinesBrush="Gray" VerticalGridLinesBrush="#FFBBBBBB">
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Binding="{Binding Path=K_Adi}" Header="KULLANICI ADI" MinWidth="180" IsReadOnly="True">
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                                        <Setter Property="VerticalAlignment" Value="Center"/>
+                                        <Setter Property="Padding" Value="4"/>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Binding="{Binding Path=Puan}" MinWidth="150" Header="ALDIĞI PUAN" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                                        <Setter Property="Padding" Value="5,0,5,0"/>
+                                        <Setter Property="VerticalAlignment" Value="Center"/>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Binding="{Binding Path=PuanTarih}" MinWidth="200" Header="SIRALAMAYA GİRİŞ TARİHİ" IsReadOnly="True" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="HorizontalAlignment" Value="Left"/>
+                                        <Setter Property="Padding" Value="5,0,5,0"/>
+                                        <Setter Property="VerticalAlignment" Value="Center"/>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn>
+                        </DataGrid.Columns>
+
+                    </DataGrid>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Image Margin="900,35,0,558" Cursor="Hand" MouseDown="Image_MouseDown"  HorizontalAlignment="Left" Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/reload.png" Width="35" RenderTransformOrigin="0.465,0.699"/>
+
+
+    </Grid>
+</Window>

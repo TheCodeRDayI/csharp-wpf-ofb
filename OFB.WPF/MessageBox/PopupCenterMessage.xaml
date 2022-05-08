@@ -1,0 +1,47 @@
+﻿<Window x:Class="OFB.WPF.MessageBox.PopupCenterMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.MessageBox"
+        mc:Ignorable="d"
+        Title="Geri Bildirim" Height="160"  Width="430" Icon="/OFB.WPF;component/favicon.ico" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Background="#E5222431">
+        <StackPanel  HorizontalAlignment="Left" Height="21"  VerticalAlignment="Top" Width="430" Background="#FF2D3241">
+            <DockPanel>
+                <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="398" BorderThickness="0" Background="{x:Null}" Foreground="#FF01BEFF" FontSize="14" IsReadOnly="True" FontFamily="Century Gothic">
+                    <FlowDocument>
+                        <Paragraph>
+                            <Run Text="Hello World"/>
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+                <Image x:Name="Quesion" MouseDown="Grid_MouseDown"  Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/move_32px.png" Width="20" Height="20" Cursor="Hand" />
+            </DockPanel>
+        </StackPanel>
+
+        <RichTextBox x:Name="richTextBox_Copy" HorizontalAlignment="Left" Height="97" VerticalAlignment="Top" Width="410" Margin="10,26,0,0" BorderThickness="0" Background="{x:Null}" Foreground="#F9FAFAFA" FontSize="15" IsReadOnly="True" FontFamily="Century Gothic">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Hello World"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+
+
+        <Canvas>
+            <Border Canvas.Top="130" x:Name="borderversiyon"  Canvas.Left="183" CornerRadius="10,10,10,10" Background="#FF01BEFF">
+                <Label Content="Tamam" x:Name="lblVersiyon"  MouseDown="lblVersiyon_MouseDown" MouseEnter="lblVersiyon_MouseEnter" MouseLeave="lblVersiyon_MouseLeave" Cursor="Hand" Foreground="White" VerticalAlignment="Center" Opacity="0.6" HorizontalContentAlignment="Center" Width="71"/>
+                <Border.Style>
+                    <Style TargetType="Border">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True"/>
+                        </Style.Triggers>
+                    </Style>
+                </Border.Style>
+            </Border>
+        </Canvas>
+
+    </Grid>
+</Window>

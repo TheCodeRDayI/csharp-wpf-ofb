@@ -1,0 +1,199 @@
+﻿<Window x:Class="OFB.WPF.Temel.HomeDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.Temel"
+        mc:Ignorable="d"
+                Title="Anasayfa" Height="700" Width="1220"  WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="/OFB.WPF;component/favicon.ico" Background="{x:Null}" Loaded="Window_Loaded" Closed="Window_Closed">
+
+    <Grid Background="#FF323241">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220" x:Name="GrdSlider"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border  Grid.Column="0" Grid.Row="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Background="#FF323241" Grid.Row="0" MouseDown="Border_MouseDown">
+                    <DockPanel VerticalAlignment="Center" >
+                        <Image Margin="20,0,0,0" Cursor="Hand" MouseDown="Image_MouseDown"  HorizontalAlignment="Left" Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/menu_filled_100px.png"/>
+                    </DockPanel>
+                </Border>
+                <Border Background="#FF323241" Grid.Row="1">
+                    <DockPanel VerticalAlignment="Center" HorizontalAlignment="Center" >
+                        <Image HorizontalAlignment="Left" MouseDown="Image_MouseDown" x:Name="imgHome" Source="/OFB.WPF;component/Images/person.png">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Width" Value="170"/>
+                                            <Setter Property="Height" Value="170"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                        </Image>
+                    </DockPanel>
+                </Border>
+            </Grid>
+        </Border>
+        <Border Background="#FF323241" Grid.Column="1" Grid.Row="0" Margin="0,0,0,160
+                ">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Background="#FF323241" MouseDown="Border_MouseDown" HorizontalAlignment="Left" Width="1000"/>
+                <DockPanel Width="160" HorizontalAlignment="Left">
+                    <Image x:Name="Quesion" MouseDown="Quesion_MouseDown_1"  Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/question_128px.png" Width="51" Cursor="Hand" />
+                    <Image x:Name="Noti" MouseDown="Noti_MouseDown"  Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/notification.png" Width="51" Cursor="Hand" />
+                    <Image x:Name="TEST" MouseDown="TEST_MouseDown_1"  Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/favicon.ico" Width="40" Cursor="Hand" />
+                </DockPanel>
+
+                <DockPanel Width="118" HorizontalAlignment="Right">
+                    <Button Content="_" Style="{DynamicResource minibutonlar}" x:Name="btnAltal" FontSize="16" ToolTip="Küçült | Alta Al" Click="btnAltal_Click"/>
+                    <Button Content="| |" Style="{DynamicResource minibutonlar}" x:Name="btnMax" FontSize="16" ToolTip="Büyült - Küçült" Click="btnMax_Click"/>
+                    <Button Content="X" Style="{DynamicResource minibutonlar}" x:Name="btnKapat" FontSize="18" ToolTip="Çıkış Yap" Click="btnKapat_Click"/>
+                </DockPanel>
+            </Grid>
+
+        </Border>
+
+        <Border Background="#FF323241" Grid.Column="0" Grid.Row="1" Height="500" VerticalAlignment="Top">
+            <StackPanel Margin="0,15,0,0">
+                <Button x:Name="btnAnasayfa" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click">
+                    <DockPanel Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/home_100px.png" Width="35"/>
+                        <Label  Content="Anasayfa" Foreground="#FF01BEFF" x:Name="lbl_Anasayfa" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button  x:Name="btnkonular" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_1">
+
+                    <DockPanel  Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/test_passed_100px.png" Width="35"/>
+                        <Label Content="C# Dersi" Foreground="#FF01BEFF" x:Name="lblkonular" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button  x:Name="btnoyunlar" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_2">
+                    <DockPanel  Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/google_play_100px.png" Width="35"/>
+                        <Label Content="Oyunlar" Foreground="#FF01BEFF" x:Name="lbloyunlar" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button x:Name="btnprogramlar" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_3">
+                    <DockPanel  Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/source_code_52px.png" Width="35"/>
+                        <Label Content="Programlar" Foreground="#FF01BEFF" x:Name="lblprogramlar" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button  x:Name="btnyonetici" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_4">
+                    <DockPanel Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/administrative_tools_52px.png" Width="35"/>
+                        <Label Content="Yönetici İşlemleri" Foreground="#FF01BEFF" x:Name="lblyonetici" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button  x:Name="btnbilgilerupdate" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_5">
+                    <DockPanel Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/approve_and_update_48px.png" Width="35"/>
+                        <Label Content="Bilgileri Güncelle" Foreground="#FF01BEFF" x:Name="lblbilgiler" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+                <Button x:Name="btnIletisim" Height="50" Style="{DynamicResource menubutton}" Click="Button_Click_6">
+                    <DockPanel Width="210"  Margin="15,0,0,0">
+                        <Image Source="/OFB.WPF;component/Images/contacts_240px.png" Width="35"/>
+                        <Label Content="İletişime Geç" Foreground="#FF01BEFF" x:Name="lblIletisim" FontFamily="Segoe UI" FontSize="18"/>
+                    </DockPanel>
+                </Button>
+
+                <Canvas>
+                    <Border Canvas.Top="92" x:Name="borderversiyon" Canvas.Left="60" CornerRadius="10,10,10,10" Background="#FF222431">
+                        <Label Width="91" Content="Demo 1.1.7.0" x:Name="lblVersiyon" MouseDown="lblVersiyon_MouseDown" MouseEnter="lblVersiyon_MouseEnter" MouseLeave="lblVersiyon_MouseLeave" Cursor="Hand" Foreground="White" VerticalAlignment="Center" Opacity=".6" HorizontalContentAlignment="Center"/>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                </Canvas>
+
+                <Canvas>
+                    <Border Canvas.Top="18" Canvas.Left="87" >
+                        <Label Width="40" MouseDown="facebook_MouseDown" x:Name="facebook" MouseEnter="facebook_MouseEnter" MouseLeave="facebook_MouseLeave" Cursor="Hand" Foreground="White" VerticalAlignment="Center" Opacity="0.9" HorizontalContentAlignment="Center" Height="40">
+                            <Label.Background>
+                                <ImageBrush ImageSource="/OFB.WPF;component/Images/facebook-128.png"/>
+                            </Label.Background>
+                        </Label>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                </Canvas>
+                <Canvas>
+                    <Border Canvas.Top="18" Canvas.Left="25" >
+                        <Label Width="40" MouseDown="instagram_MouseDown" x:Name="instagram" MouseEnter="instagram_MouseEnter" MouseLeave="instagram_MouseLeave" Cursor="Hand" Foreground="White" VerticalAlignment="Center" Opacity="0.9" HorizontalContentAlignment="Center" Height="40">
+                            <Label.Background>
+                                <ImageBrush ImageSource="/OFB.WPF;component/Images/whatsapp.png"/>
+                            </Label.Background>
+                        </Label>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                </Canvas>
+                <Canvas>
+                    <Border Canvas.Top="18" Canvas.Left="150" >
+                        <Label Width="40" MouseDown="google_plus_MouseDown" x:Name="google_plus" MouseEnter="google_plus_MouseEnter" MouseLeave="google_plus_MouseLeave" Cursor="Hand" Foreground="White" VerticalAlignment="Center" Opacity="0.9" HorizontalContentAlignment="Center" Height="40">
+                            <Label.Background>
+                                <ImageBrush ImageSource="/OFB.WPF;component/Images/www.png"/>
+                            </Label.Background>
+                        </Label>
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                    </Border>
+                </Canvas>
+
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1" Background="#FF323241" Margin="0,40,0,1" Grid.RowSpan="2">
+            <Grid x:Name="Content_Icerik">
+
+            </Grid>
+        </Border>
+        <Canvas Grid.Column="1" Margin="79,2,883,178">
+            <Label x:Name="lblNotiStatus" Content="0" MouseDown="Noti_MouseDown" Background="#FF01BEFF" Opacity="0.7" Padding="3,0,3,0" Canvas.Top="5" MouseEnter="lblNotiStatus_MouseEnter" MouseLeave="lblNotiStatus_MouseLeave" Foreground="White" />
+        </Canvas>
+        <Canvas Width="400" Height="50" Margin="19,17,801,133" Grid.ColumnSpan="2">
+            <Popup PopupAnimation="Slide" x:Name="popupDonade" Placement="Mouse" MaxWidth="400" AllowsTransparency="True">
+                <Border BorderThickness="1"  Height="50" Width="351">
+                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="49" IsReadOnly="True" TextWrapping="Wrap" VerticalAlignment="Top" Width="347"  Text="IBAN: TR78 0020 5000 0958 9614 1000 01" Background="{x:Null}" FontSize="18" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="#FF01BEFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="2" Margin="0,0,0,-1"/>
+                </Border>
+            </Popup>
+        </Canvas>
+    </Grid>
+</Window>

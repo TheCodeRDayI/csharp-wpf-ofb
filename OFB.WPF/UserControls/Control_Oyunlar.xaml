@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="OFB.WPF.UserControls.Control_Oyunlar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" Width="1000" Height="660" d:DesignWidth="300" Background="#FF222431">
+    <Grid>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="78" Margin="52,40,0,0" Background="#17a2b8" VerticalAlignment="Top" Width="400" MouseLeftButtonUp="KOyunu"/>
+        <Image  Cursor="Hand" x:Name="image_Copy" HorizontalAlignment="Left" Height="64" Margin="58,46,0,0" VerticalAlignment="Top" Width="64" Source="/OFB.WPF;component/Images/game_maker_96px.png" MouseLeftButtonUp="KOyunu" />
+        <Label Cursor="Hand" x:Name="label_Copy" Content="Kelime Oyunu" HorizontalAlignment="Left" Margin="156,63,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="KOyunu"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="78" Margin="521,40,0,0" Background="#6c757d" VerticalAlignment="Top" Width="400" MouseLeftButtonUp="Snake"/>
+        <Image Cursor="Hand" x:Name="image_Copy1" HorizontalAlignment="Left" Height="64" Margin="527,46,0,0" VerticalAlignment="Top" Width="64" Source="/OFB.WPF;component/Images/snake.png" MouseLeftButtonUp="Snake" />
+        <Label Cursor="Hand" x:Name="label_Copy1" Content="Yılan Oyunu (Beta)" HorizontalAlignment="Left" Margin="634,63,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="Snake"/>
+
+    </Grid>
+</UserControl>

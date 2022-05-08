@@ -1,0 +1,22 @@
+﻿
+                                     ###################################
+                                     ###################################
+                                     #### ÖMER FARUK BACAKSIZ PROJE ####
+                                     ###################################
+                                     ###################################
+
+I)Yapılacalar:
+
+bildirim sayfası(yeni window veya internetten bak)
+
+
+
+II)Hatalar:
+
+IV)Ayarlar:
+
+Yazı Font: Algerian
+Mavi Button ile uyumlu yazı renk: 1;190;255 - #01beff
+Genel Banner Arka Plan Renk: 34;36;49 - #222431
+
+Mavi: 007bff - Mavi2:#17a2b8 - Yeşil: 28a745 - Sarı: #ffc107 - Kırmızı: #dc3545 - Koyu Gri: #343a40 - Gri: #6c757d 

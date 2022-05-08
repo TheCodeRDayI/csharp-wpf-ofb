@@ -1,0 +1,33 @@
+﻿<Window x:Class="OFB.WPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF"
+        mc:Ignorable="d"
+
+     Icon="/OFB.WPF;component/Images/Favicon/favicon.ico"
+        Title="Giriş Yap"  Height="630.12" Width="390.977"  Loaded="Window_Loaded" Closed="Window_Closed_1" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"  Foreground="White" Grid.IsSharedSizeScope="True" WindowStyle="None">
+
+    <Grid   Background="#FF222431" Margin="4" RenderTransformOrigin="0.505,0.515">
+
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" Margin="26,200,0,0" Text="Kullanıcı Adınız" Background="{x:Null}" FontSize="18" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="2"  LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus"/>
+        <Button x:Name="button"  Content="Giriş Yap" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="329" Margin="26,410,0,0" Height="45" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="5" Click="button_Click" IsDefault="True" Cursor="Hand"/>
+       
+        <Button x:Name="button_Copy1" Style="{DynamicResource userKontolKitapEkleButon}" Content="Kayıt Ol" HorizontalAlignment="Left" Width="329" Margin="26,463,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="8" Click="button_Copy1_Click" Cursor="Hand"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Margin="220,345,0,0" Text="####" Background="{x:Null}" FontSize="20" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MaxLength="4" TabIndex="4" LostFocus="textBox_Copy1_LostFocus" GotFocus="textBox_Copy1_GotFocus"/>
+        <TextBox x:Name="textBox_Copy2" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Margin="65,343,0,0" Text="####" FontSize="25" BorderBrush="White" BorderThickness="0" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True">
+            <TextBox.Background>
+                <ImageBrush Opacity=".7" ImageSource="/OFB.WPF;component/Images/guvenlik2.png"/>
+            </TextBox.Background>
+        </TextBox>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="156" VerticalAlignment="Top" Width="156" Source="/OFB.WPF;component/Images/boy.png" Margin="119,6,0,0" MouseEnter="image_MouseEnter" MouseDown="image_MouseDown" MouseLeave="image_MouseLeave"/>
+        <Button x:Name="button_Copy2" Content="Çıkış Yap" Style="{DynamicResource userKontolKitapEkleButon}" HorizontalAlignment="Left" Width="329" Margin="26,570,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="14" Click="button_Copy2_Click" Cursor="Hand"/>
+        <Image Margin="26,337,0,231" Cursor="Hand" MouseDown="Image_MouseDown_1"  HorizontalAlignment="Left" Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/reload.png" Width="24"/>
+        <Image x:Name="Quesion" MouseDown="Grid_MouseDown"  Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/move_32px.png" Width="20" Height="20" Cursor="Hand" Margin="353,10,10,562" />
+        <Label x:Name="label1" Content="Kullanıcı Adınız:" HorizontalAlignment="Left" Margin="26,175,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy" Content="Şifreniz:" HorizontalAlignment="Left" Margin="26,248,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <PasswordBox x:Name="passwordBox" GotFocus="textBox_Copy_GotFocus" LostFocus="textBox_Copy_LostFocus" HorizontalAlignment="Left" Margin="26,272,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Width="329" Height="40" Background="{x:Null}" BorderThickness="0,0,0,1" Foreground="Silver" FontSize="18" Password="Şifreniz" TabIndex="3"/>
+        <Button x:Name="button_Copy" Style="{DynamicResource userKontolKitapEkleButon}" Content="Misafir Kullanıcı" HorizontalAlignment="Left" Width="329" Margin="26,516,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="8" Click="button_Copy_Click_1" Cursor="Hand"/>
+    </Grid>
+</Window>

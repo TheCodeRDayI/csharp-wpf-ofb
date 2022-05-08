@@ -1,0 +1,727 @@
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe.config
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.exe
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\FakeData.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\FakeData.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.xml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\PCClear\PCClearHome.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Home.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Test\Window1.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\App.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.lref
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\App.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\PCClear\PCClearHome.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Home.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Test\Window1.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.baml
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.g.resources
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.Properties.Resources.resources
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csproj.GenerateResource.Cache
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\bin\Debug\webcam_capture.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.g.cs
+C:\Projeler\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.baml
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe.config
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.exe
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.pdb
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.pdb
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\FakeData.dll
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.dll
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.dll
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.pdb
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\FakeData.pdb
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.xml
+C:\Projeler\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\PCClear\PCClearHome.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Home.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Test\Window1.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\App.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.cache
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.lref
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\App.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\PCClear\PCClearHome.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Home.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Test\Window1.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.g.resources
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.Properties.Resources.resources
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csproj.GenerateResource.Cache
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.baml
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.g.cs
+C:\Projeler\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe.config
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.pdb
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\FakeData.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\MySql.Data.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\QRCoder.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Zstandard.Net.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\System.Buffers.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.pdb
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\FakeData.pdb
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.xml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\MySql.Data.xml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\GirileniYazma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\IkiSayininOrtalamasi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\MarketProgrami.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\Sayac.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\SayininKaresi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\ToplamaIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DegerYollama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DortIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\SayininKupVeKaresi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\UcgeninDurumu.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\AddPlus10.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziAylar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DizilerdeMetotlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziyeRandomEleman.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\SesliHarfler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\TerseCevir.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\CarpimTablo.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Random8.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\RandomSayi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Yirmiser.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\GirisCikis.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\MouseHoverForm.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\RakamRandom.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\TextboxChange.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Alfabe.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\ForIleToplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\IsimYazdirma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SayininKuvveti.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SekizDokuz.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Ucgen.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\Cevirme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\HangiSayiBuyuk.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiNegatifPozitif.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiTekCift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\UserLoginIslemi.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\IkiSayiOrtalama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Musteri.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Ucgen.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\AlanCevre.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\IkiSayiToplami.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\OgrenciAdd.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\SayiTekCift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\WhoMax.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\YuzKezIsim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\ZamUygulama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\KaynakKodlari.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\UserControl1.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\GunBulma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\MevsimBulma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\RenkDegisme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\AHarfSilme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\BuyukHarf.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\KucukHarf.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Metotlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\CheckUrunToplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanKare.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanSilEkle.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\DortIslemRadiobutton.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanEkleme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanSilme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\IkıVeUc.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\KDVRadioButton.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\OgrenciIndirim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\SecilenEleman.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerKronometre.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerListboxVeri.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Cikartma.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Ortalama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Toplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Aralikli.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Cift.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Faktoriyel.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Kare.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Toplama.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Degiskenler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\DoWhile.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\For.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\IfElse.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Kalitim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Metot.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\OzetKontrol\UserControl1.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\SwitchCase.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Temsilci.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\ToolBox.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\TryCatchFinally.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\While.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Class.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Diziler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Events.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Interface.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\DovizListesi\Dovizler.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\QRCode_Olusturucu\QRCode_Create_.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserAddAndDelete.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\userBlock.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserGuncelleAndSearch.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserPerms.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\App.g.cs
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.lref
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\App.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\GirileniYazma.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\IkiSayininOrtalamasi.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\MarketProgrami.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\Sayac.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\SayininKaresi.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\ToplamaIslem.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DegerYollama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DortIslem.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\SayininKupVeKaresi.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\UcgeninDurumu.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\AddPlus10.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziAylar.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DizilerdeMetotlar.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziyeRandomEleman.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\SesliHarfler.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\TerseCevir.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\CarpimTablo.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Random8.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\RandomSayi.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Yirmiser.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\GirisCikis.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\MouseHoverForm.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\RakamRandom.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\TextboxChange.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Alfabe.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Faktoriyel.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\ForIleToplama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\IsimYazdirma.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SayininKuvveti.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SekizDokuz.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Ucgen.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\Cevirme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\HangiSayiBuyuk.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiNegatifPozitif.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiTekCift.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\UserLoginIslemi.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\IkiSayiOrtalama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Musteri.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Ucgen.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\AlanCevre.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\IkiSayiToplami.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\OgrenciAdd.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\SayiTekCift.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\WhoMax.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\YuzKezIsim.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\ZamUygulama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\KaynakKodlari.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\UserControl1.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\GunBulma.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\MevsimBulma.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\RenkDegisme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\AHarfSilme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\BuyukHarf.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Faktoriyel.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\KucukHarf.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Metotlar.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\CheckUrunToplama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanKare.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanSilEkle.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\DortIslemRadiobutton.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanEkleme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanSilme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\IkıVeUc.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\KDVRadioButton.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\OgrenciIndirim.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\SecilenEleman.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerKronometre.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerListboxVeri.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Cikartma.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Ortalama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Toplama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Aralikli.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Cift.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Faktoriyel.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Kare.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Toplama.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Degiskenler.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\DoWhile.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\For.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\IfElse.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Kalitim.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Metot.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\OzetKontrol\UserControl1.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\SwitchCase.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Temsilci.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\ToolBox.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\TryCatchFinally.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\While.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Class.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Diziler.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Events.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Interface.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\DovizListesi\Dovizler.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\QRCode_Olusturucu\QRCode_Create_.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserAddAndDelete.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\userBlock.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserGuncelleAndSearch.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserPerms.baml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.g.resources
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.Properties.Resources.resources
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csproj.GenerateResource.Cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.exe
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.pdb
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe.config
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.exe
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.pdb
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.exe
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.WPF.pdb
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\FakeData.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\MySql.Data.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\QRCoder.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Zstandard.Net.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\Renci.SshNet.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\System.Buffers.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\OFB.Data.pdb
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\FakeData.pdb
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\itextsharp.xml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\MySql.Data.xml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\bin\Debug\WpfAnimatedGif.xml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csprojResolveAssemblyReference.cache
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\GirileniYazma.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\IkiSayininOrtalamasi.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\MarketProgrami.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\Sayac.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\SayininKaresi.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\ToplamaIslem.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DegerYollama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DortIslem.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\SayininKupVeKaresi.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\UcgeninDurumu.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\AddPlus10.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziAylar.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DizilerdeMetotlar.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziyeRandomEleman.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\SesliHarfler.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\TerseCevir.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\CarpimTablo.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Random8.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\RandomSayi.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Yirmiser.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\GirisCikis.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\MouseHoverForm.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\RakamRandom.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\TextboxChange.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Alfabe.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Faktoriyel.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\ForIleToplama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\IsimYazdirma.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SayininKuvveti.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SekizDokuz.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Ucgen.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\Cevirme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\HangiSayiBuyuk.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiNegatifPozitif.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiTekCift.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\UserLoginIslemi.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\IkiSayiOrtalama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Musteri.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Ucgen.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\AlanCevre.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\IkiSayiToplami.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\OgrenciAdd.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\SayiTekCift.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\WhoMax.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\YuzKezIsim.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\ZamUygulama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\KaynakKodlari.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\UserControl1.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\GunBulma.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\MevsimBulma.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\RenkDegisme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\AHarfSilme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\BuyukHarf.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Faktoriyel.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\KucukHarf.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Metotlar.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\CheckUrunToplama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanKare.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanSilEkle.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\DortIslemRadiobutton.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanEkleme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanSilme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\IkıVeUc.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\KDVRadioButton.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\OgrenciIndirim.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\SecilenEleman.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerKronometre.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerListboxVeri.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Cikartma.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Ortalama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Toplama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Aralikli.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Cift.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Faktoriyel.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Kare.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Toplama.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Degiskenler.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\DoWhile.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\For.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\IfElse.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Kalitim.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Metot.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\OzetKontrol\UserControl1.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\SwitchCase.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Temsilci.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\ToolBox.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\TryCatchFinally.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\While.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Class.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Diziler.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Events.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Interface.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\DovizListesi\Dovizler.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\QRCode_Olusturucu\QRCode_Create_.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserAddAndDelete.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\userBlock.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserGuncelleAndSearch.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserPerms.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\App.g.cs
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.cache
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF_MarkupCompile.lref
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\App.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\GirileniYazma.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\IkiSayininOrtalamasi.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\MarketProgrami.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\Sayac.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\SayininKaresi.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Baslangic\ToplamaIslem.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DegerYollama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\DortIslem.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\SayininKupVeKaresi.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Class\UcgeninDurumu.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\AddPlus10.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziAylar.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DizilerdeMetotlar.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\DiziyeRandomEleman.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\SesliHarfler.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Dizi\TerseCevir.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\CarpimTablo.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Random8.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\RandomSayi.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\DoWhile\Yirmiser.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\GirisCikis.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\MouseHoverForm.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\RakamRandom.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Events\TextboxChange.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Alfabe.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Faktoriyel.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\ForIleToplama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\IsimYazdirma.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SayininKuvveti.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\SekizDokuz.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\For\Ucgen.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\Cevirme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\HangiSayiBuyuk.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiNegatifPozitif.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\SayiTekCift.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\IfElse\UserLoginIslemi.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\IkiSayiOrtalama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Musteri.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Interface\Ucgen.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\AlanCevre.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\IkiSayiToplami.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Kalitim\OgrenciAdd.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\SayiTekCift.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\WhoMax.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\YuzKezIsim.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Metot\ZamUygulama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\KaynakKodlari.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\OrnekKontrol\UserControl1.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\GunBulma.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\MevsimBulma.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\SwitchCase\RenkDegisme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\AHarfSilme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\BuyukHarf.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Faktoriyel.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\KucukHarf.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Temsilci\Metotlar.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\CheckUrunToplama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanKare.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ComboElemanSilEkle.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\DortIslemRadiobutton.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanEkleme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\ElemanSilme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\IkıVeUc.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\KDVRadioButton.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\OgrenciIndirim.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\SecilenEleman.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerKronometre.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\Toolbox\TimerListboxVeri.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Cikartma.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Ortalama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\TryCatchFinally\Toplama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Aralikli.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Cift.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Faktoriyel.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Kare.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ornekler\While\Toplama.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Degiskenler.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\DoWhile.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\For.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\IfElse.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Kalitim.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Metot.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\OzetKontrol\UserControl1.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\SwitchCase.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\Temsilci.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\ToolBox.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\TryCatchFinally.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\While.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Class.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Diziler.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Events.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Konular\Ozetler\_Interface.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenter2Message.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupCenterMessage.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoading.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupLoadingNoTime.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupOutputMessage.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\MessageBox\PopupResultMessage.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\KelimeOyunu\GameKelimeAnasayfa.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Oyunlar\Snake\SnakeGame.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\DovizListesi\Dovizler.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\LiveRadio\RadioFirstPage.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\MailSender\EmailSend.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\QRCode_Olusturucu\QRCode_Create_.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Programlar\WebCam_\WebCamera.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Exit.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\ExitNoNet.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\HomeDemo.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Login.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\Register.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\Temel\RegisterSozlesme.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Anasayfa_Quesion.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_BilgileriGuncelle.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Iletisim.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Konular.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Oyunlar.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_Programlar.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\UserControls\Control_YoneticiIslem.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\KullaniciList.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\ProgramLogs.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserAddAndDelete.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\userBlock.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserGuncelleAndSearch.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\YoneticiIslem\UserPerms.baml
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.g.resources
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.Properties.Resources.resources
+C:\Users\D4YI\Desktop\C# WPF\OFB\OFB\OFB.WPF\obj\Debug\OFB.WPF.csproj.GenerateResource.Cache

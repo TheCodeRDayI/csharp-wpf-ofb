@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="OFB.WPF.UserControls.Control_Konular"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Background="#FF222431" Width="1000" Height="660">
+    <Grid>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="80" Margin="558,9,0,0" Background="#ffc107" VerticalAlignment="Top" Width="356" MouseLeftButtonUp="csharp"/>
+        <Image Cursor="Hand" x:Name="image" HorizontalAlignment="Left" Height="64" Margin="580,17,0,0" VerticalAlignment="Top" Width="64" Source="/OFB.WPF;component/Images/question.png" MouseLeftButtonUp="csharp"/>
+        <Label Cursor="Hand" x:Name="label" Content="Örnekler" HorizontalAlignment="Left" Margin="680,33,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="Netsis Tahoma - AZ" Foreground="Black" MouseLeftButtonUp="csharp"/>
+
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="80" Margin="88,9,0,0" Background="#343a40" VerticalAlignment="Top" Width="357" MouseLeftButtonUp="css3"/>
+        <Image  Cursor="Hand" x:Name="image3" HorizontalAlignment="Left" Height="64" Margin="102,17,0,0" VerticalAlignment="Top" Width="64" Source="/OFB.WPF;component/Images/test_passed_100px.png" MouseLeftButtonUp="css3"/>
+        <Label Cursor="Hand" x:Name="label3" Content="Konu Özetleri" HorizontalAlignment="Left" Margin="203,33,0,0" VerticalAlignment="Top" FontSize="25" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="css3"/>
+
+        <Border BorderBrush="#FF015AFF" BorderThickness="0,2,0,0" Margin="0,104,0,0">
+            <Grid x:Name="Content_Icerik" Margin="0,0,2,0" >
+
+            </Grid>
+        </Border>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,31 @@
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\bin\Release\OFB.Data.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\bin\Release\OFB.Data.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\bin\Release\itextsharp.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\bin\Release\itextsharp.xml
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.csproj.ResolveComReference.cache
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.Properties.Resources.resources
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.csproj.GenerateResource.Cache
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.dll
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.pdb
+C:\Projeler\Projeler\OFB\OFB\OFB.Data\obj\Release\OFB.Data.csprojResolveAssemblyReference.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\OFB.Data.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\OFB.Data.pdb
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\itextsharp.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\MySql.Data.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\Google.Protobuf.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\Zstandard.Net.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\Renci.SshNet.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\System.Buffers.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\itextsharp.xml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\bin\Release\MySql.Data.xml
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\obj\Release\OFB.Data.csproj.ResolveComReference.cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\obj\Release\OFB.Data.Properties.Resources.resources
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\obj\Release\OFB.Data.csproj.GenerateResource.Cache
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\obj\Release\OFB.Data.dll
+C:\Users\D4YI\Documents\Visual Studio 2015\Projects\C# WPF\OFB\OFB\OFB.Data\obj\Release\OFB.Data.pdb

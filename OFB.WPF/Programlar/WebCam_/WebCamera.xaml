@@ -1,0 +1,62 @@
+﻿<Window x:Class="OFB.WPF.Programlar.WebCam_.WebCamera"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OFB.WPF.Programlar.WebCam_"
+        mc:Ignorable="d"
+        Title="Web Cam Programı" Height="620" Width="945" Background="#FF222431" Loaded="Window_Loaded" Icon="/OFB.WPF;component/favicon.ico" WindowStartupLocation="CenterScreen" Closed="Window_Closed" ResizeMode="NoResize" WindowStyle="None">
+    <Grid MouseDown="Grid_MouseDown">
+        <StackPanel HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="945" Background="#FF2D3241">
+            <DockPanel Width="60" HorizontalAlignment="Right">
+                <Button Content="X" Style="{DynamicResource minibutonlar}" x:Name="btnKapat" FontSize="18" Click="btnKapat_Click" Width="36" Height="30"/>
+            </DockPanel>
+        </StackPanel>
+        <TabControl x:Name="tabcontrol1"  Margin="0,35,0,0" Background="#FF222431" >
+            <TabControl.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TabItem">
+                                <Border Name="Border" BorderThickness="1,1,1,0" BorderBrush="Gainsboro" CornerRadius="6,6,0,0" Margin="2,0">
+                                    <ContentPresenter x:Name="ContentSite"
+                                        VerticalAlignment="Center"
+                                        HorizontalAlignment="Center"
+                                        ContentSource="Header"
+                                        Margin="10,4"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter TargetName="Border" Property="Background" Value="LightSkyBlue" />
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="False">
+                                        <Setter TargetName="Border" Property="Background" Value="GhostWhite" />
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+            <TabItem x:Name="tabitem1" Header="Anasayfa">
+                <Grid>
+                    <Button x:Name="button" Content="WebCam Başlat" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="196" Margin="10,485,0,0" Height="45" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="5" Click="button_Click" IsDefault="True" Cursor="Hand"/>
+                    <Button x:Name="button_Copy" Style="{DynamicResource userKontolKitapEkleButon}" Content="Fotoğraf Çek" HorizontalAlignment="Left" Width="196" Margin="250,485,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" AutomationProperties.IsRowHeader="True" TabIndex="7" Click="button_Copy_Click" Cursor="Hand"/>
+                    <Image x:Name="image" HorizontalAlignment="Left" Height="465" VerticalAlignment="Top" Width="935"/>
+                    <Button x:Name="button_Copy2" Style="{DynamicResource userKontolKitapEkleButon}" Content="WebCam Durdur" HorizontalAlignment="Left" Width="196" Margin="729,485,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" AutomationProperties.IsRowHeader="True" TabIndex="7" Click="button_Copy2_Click" Cursor="Hand"/>
+                    <Button x:Name="button_Copy1" Style="{DynamicResource userKontolKitapEkleButon}" Content="Devam Et" HorizontalAlignment="Left" Width="196" Margin="483,485,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" AutomationProperties.IsRowHeader="True" TabIndex="7" Click="button_Copy1_Click" Cursor="Hand"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabitem2" Header="Resim Kaydet" >
+                <Grid>
+                    <Button x:Name="button123" Content="Kaydet" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="275" Margin="10,485,0,0" Height="45" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="5" Click="button123_Click" IsDefault="True" Cursor="Hand"/>
+                    <Button x:Name="button_Copy123" Style="{DynamicResource userKontolKitapEkleButon}" Content="Tekrar Çek" HorizontalAlignment="Left" Width="275" Margin="331,485,0,0" Height="45" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" AutomationProperties.IsRowHeader="True" TabIndex="7" Click="button_Copy123_Click" Cursor="Hand"/>
+                    <Image x:Name="image12" HorizontalAlignment="Left" Margin="0,0,0,68" Width="935"/>
+                </Grid>
+            </TabItem>
+
+
+        </TabControl>
+
+    </Grid>
+</Window>

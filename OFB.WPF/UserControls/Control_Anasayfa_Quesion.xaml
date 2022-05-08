@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="OFB.WPF.UserControls.Control_Anasayfa_Quesion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="1000" Height="660" Background="#FF222431">
+    <Grid>
+        <RichTextBox x:Name="richTextBox" HorizontalAlignment="Left" Height="32" Margin="10,11,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="#FF01BEFF" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="• Neden tam erişim sağlayamıyorum?"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_Copy" HorizontalAlignment="Left" Height="68" Margin="10,36,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="White" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Programa kayıt olduğunuzda 'Konular' erişiminiz açıktır. Programdaki güvenirliği artırmak için uygulanmıştır. Yönetim ile iletişime geçerek engellerinizi kaldırabilirsiniz."/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_Copy1" HorizontalAlignment="Left" Height="32" Margin="10,111,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="#FF01BEFF" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="• Bu Otomasyon hangi programlama dili ile yazıldı?"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_Copy2" HorizontalAlignment="Left" Height="68" Margin="10,136,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="White" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Bu Program C# WPF ile kodlanmıştır. Detaylı bilgi için omerfarukbacaksz@gmail.com"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_Copy3" HorizontalAlignment="Left" Height="32" Margin="10,195,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="#FF01BEFF" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="• Verilerimizin korunma güvenliği nasıldır?"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="richTextBox_Copy4" HorizontalAlignment="Left" Height="48" Margin="10,220,0,0" VerticalAlignment="Top" Width="925" BorderBrush="{x:Null}" BorderThickness="1" FontFamily="Segoe UI" FontSize="16" Focusable="False" Foreground="White" Background="{x:Null}" IsReadOnly="True" SelectionOpacity="0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Programda kullandım Veri Tabanı MY SQL'dir. Verileriniz kesinlikle 3. kişi tarafından bilinmemektedir, gösterilmemektedir."/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</UserControl>

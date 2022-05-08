@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="OFB.WPF.UserControls.Control_BilgileriGuncelle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" Height="660" Width="1000"  d:DesignWidth="300" Loaded="UserControl_Loaded" Background="#FF222431">
+    <Grid>
+        <TextBox x:Name="textBox"  PreviewTextInput="textBox_PreviewTextInput" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" Margin="114,188,0,0" Text="Adınız" Background="{x:Null}" FontSize="15" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="2"  LostFocus="textBox_LostFocus" GotFocus="textBox_GotFocus" MaxLength="50"/>
+        <TextBox x:Name="textBox1" PreviewTextInput="textBox_PreviewTextInput" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" Margin="114,269,0,0" Text="Soyadınız" Background="{x:Null}" FontSize="15" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="3"  LostFocus="textBox_LostFocus1" GotFocus="textBox_GotFocus1" MaxLength="50"/>
+        <TextBox x:Name="textBox6" PreviewKeyDown="textBox2_PreviewKeyDown" PreviewTextInput="textBox6_PreviewTextInput" HorizontalAlignment="Left" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" Margin="114,345,0,0" Text="TC Kimliğiniz" Background="{x:Null}" FontSize="15" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="5"  LostFocus="textBox_LostFocus6" GotFocus="textBox_GotFocus6" MaxLength="11"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left"  PreviewKeyDown="textBox2_PreviewKeyDown" Height="30" TextWrapping="Wrap" VerticalAlignment="Top" Width="329" Margin="518,350,0,0" Text="E-Mail Adresiniz" Background="{x:Null}" FontSize="15" BorderBrush="White" BorderThickness="0,0,0,1" Foreground="Silver" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TabIndex="8"  LostFocus="textBox_LostFocus5" GotFocus="textBox_GotFocus5" MaxLength="50"/>
+        <Button x:Name="button" Content="Kaydet" HorizontalAlignment="Left" Style="{DynamicResource userKontolKitapEkleButon2}"  Width="230" Margin="520,495,0,0" Height="40" Background="#FF01BEFF" BorderBrush="{x:Null}" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="0" Click="button_Click" IsDefault="True" Cursor="Hand"/>
+        <Image Margin="854,348,0,288" Cursor="Hand" MouseDown="Image_MouseDown_1"  HorizontalAlignment="Left" Style="{DynamicResource hamburgerbutonlar}" Source="/OFB.WPF;component/Images/question_mark_512px.png" Width="24"/>
+        <Button x:Name="button_Copy1" Style="{DynamicResource userKontolKitapEkleButon}" Content="İptal Et" HorizontalAlignment="Left" Width="230" Margin="213,495,0,0" Height="40" Background="#FF222431" BorderBrush="White" BorderThickness="2" FontSize="18" Foreground="White" VerticalContentAlignment="Center" VerticalAlignment="Top" TabIndex="11" Click="button_Copy1_Click" Cursor="Hand"/>
+        <Label x:Name="label1" Content="Adınız:" HorizontalAlignment="Left" Margin="114,162,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy" Content="Soyadınız:" HorizontalAlignment="Left" Margin="114,243,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy2" Content="TC Kimliğiniz:" HorizontalAlignment="Left" Margin="114,324,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy3" Content="Şifreniz:" HorizontalAlignment="Left" Margin="518,162,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy4" Content="Şifreniz: (tekrar)" HorizontalAlignment="Left" Margin="520,243,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label1_Copy5" Content="E-Mail Adresiniz:" HorizontalAlignment="Left" Margin="520,324,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <PasswordBox x:Name="passwordBox" PreviewKeyDown="textBox2_PreviewKeyDown"  GotFocus="textBox_GotFocus3" LostFocus="textBox_LostFocus3" HorizontalAlignment="Left" Margin="518,188,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Width="329" Height="30" Background="{x:Null}" BorderThickness="0,0,0,1" Foreground="Silver" FontSize="15" Password="Şifreniz" TabIndex="6" PasswordChanged="passwordBox_PasswordChanged" />
+        <PasswordBox x:Name="passwordBox_Copy"  PreviewKeyDown="textBox2_PreviewKeyDown" GotFocus="textBox_GotFocus4" LostFocus="textBox_LostFocus4" HorizontalAlignment="Left" Margin="518,269,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Width="329" Height="30" Background="{x:Null}" BorderThickness="0,0,0,1" Foreground="Silver" FontSize="15" Password="Şifreniz (tekrar)" TabIndex="7"/>
+        <Label x:Name="lblsifredurum" Content="" HorizontalAlignment="Left" Margin="518,216,0,0" VerticalAlignment="Top" Foreground="#FFC80000" FontSize="10" FontStyle="Italic"/>
+        <Label x:Name="lblsifredurum2" Content="" HorizontalAlignment="Left" Margin="518,297,0,0" VerticalAlignment="Top" Foreground="#FFC80000" FontSize="10" FontStyle="Italic"/>
+
+    </Grid>
+</UserControl>

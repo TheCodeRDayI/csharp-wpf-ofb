@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="OFB.WPF.Konular.Ozetler.OzetKontrol.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OFB.WPF.Konular.Ozetler.OzetKontrol"
+             mc:Ignorable="d" 
+                             d:DesignHeight="300" d:DesignWidth="300" Width="1000" Height="660" Background="#FF222431">
+    <Grid>
+        <Label x:Name="label1" Content="Konu Özetleri" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="412,4,0,0" Width="178" Foreground="#FFBEBEBE" FontWeight="Bold" FontSize="25"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="28,68,0,0" Background="#28a745" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_1"/>
+        <Image Cursor="Hand" x:Name="image" HorizontalAlignment="Left" Height="50" Margin="34,72,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_1"/>
+        <Label Cursor="Hand" x:Name="label"  Content="Değişkenler" HorizontalAlignment="Left" Margin="113,82,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_1" Width="150"/>
+
+
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="710,68,0,0" Background="#17a2b8" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2" HorizontalAlignment="Left" Height="50" Margin="716,72,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp"/>
+        <Label  Cursor="Hand" x:Name="label2" Content="If Else" HorizontalAlignment="Left" Margin="795,82,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="28,164,0,0" Background="#dc3545" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_2"/>
+        <Image Cursor="Hand" x:Name="image2_Copy" HorizontalAlignment="Left" Height="50" Margin="34,168,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_2"/>
+        <Label Cursor="Hand" x:Name="label2_Copy" Content="Switch Case" HorizontalAlignment="Left" Margin="113,178,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_2" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="374,164,0,0" Background="#f5b973" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy1_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy1" HorizontalAlignment="Left" Height="50" Margin="380,168,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy1_MouseLeftButtonUp"/>
+        <Label Cursor="Hand" x:Name="label2_Copy1" Content="For" HorizontalAlignment="Left" Margin="459,178,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="label2_Copy1_MouseLeftButtonUp" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="712,164,0,0" Background="#57dc27" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_3"/>
+        <Image Cursor="Hand" x:Name="image2_Copy2" HorizontalAlignment="Left" Height="50" Margin="718,168,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_3"/>
+        <Label Cursor="Hand" x:Name="label2_Copy2" Content="While" HorizontalAlignment="Left" Margin="797,178,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_3" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="28,260,0,0" Background="#f7f7f7" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy3_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy3" HorizontalAlignment="Left" Height="50" Margin="34,264,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy3_MouseLeftButtonUp"/>
+        <Label Cursor="Hand" x:Name="label2_Copy3" Content="Do While" HorizontalAlignment="Left" Margin="113,274,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="Black" MouseLeftButtonUp="label2_Copy3_MouseLeftButtonUp" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="374,260,0,0" Background="#990049" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_4"/>
+        <Image Cursor="Hand" x:Name="image2_Copy4" HorizontalAlignment="Left" Height="50" Margin="380,264,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_4"/>
+        <Label Cursor="Hand" x:Name="label2_Copy4" Content="Try Catch Finally" HorizontalAlignment="Left" Margin="457,274,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_4" Width="152"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="376,68,0,0" Background="#7f8aa1" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_5"/>
+        <Image Cursor="Hand" x:Name="image2_Copy5" HorizontalAlignment="Left" Height="50" Margin="382,72,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_5"/>
+        <Label Cursor="Hand" x:Name="label2_Copy5" Content="ToolBox" HorizontalAlignment="Left" Margin="459,82,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_5" Width="152"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="714,260,0,0" Background="#ff6600" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_6"/>
+        <Image Cursor="Hand" x:Name="image2_Copy6" HorizontalAlignment="Left" Height="50" Margin="720,264,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_6"/>
+        <Label Cursor="Hand" x:Name="label2_Copy6" Content="Metot" HorizontalAlignment="Left" Margin="797,274,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_6" Width="152"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="28,358,0,0" Background="#28a745" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_7"/>
+        <Image Cursor="Hand" x:Name="image_Copy" HorizontalAlignment="Left" Height="50" Margin="34,362,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_7"/>
+        <Label Cursor="Hand" x:Name="label_Copy"  Content="Class" HorizontalAlignment="Left" Margin="113,372,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_7" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="376,358,0,0" Background="#7f8aa1" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy7_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy7" HorizontalAlignment="Left" Height="50" Margin="382,362,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy7_MouseLeftButtonUp"/>
+        <Label Cursor="Hand" x:Name="label2_Copy7" Content="Diziler" HorizontalAlignment="Left" Margin="459,372,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="label2_Copy7_MouseLeftButtonUp" Width="152"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="710,358,0,0" Background="#17a2b8" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy8_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy8" HorizontalAlignment="Left" Height="50" Margin="716,362,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy8_MouseLeftButtonUp"/>
+        <Label  Cursor="Hand" x:Name="label2_Copy8" Content="Kalıtım" HorizontalAlignment="Left" Margin="795,372,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="label2_Copy8_MouseLeftButtonUp" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="28,456,0,0" Background="#dc3545" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_8"/>
+        <Image Cursor="Hand" x:Name="image2_Copy9" HorizontalAlignment="Left" Height="50" Margin="34,460,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_8"/>
+        <Label Cursor="Hand" x:Name="label2_Copy9" Content="Interface" HorizontalAlignment="Left" Margin="113,470,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="StackPanel_MouseLeftButtonUp_8" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="376,456,0,0" Background="#f5b973" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy10_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy10" HorizontalAlignment="Left" Height="50" Margin="382,460,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy10_MouseLeftButtonUp"/>
+        <Label Cursor="Hand" x:Name="label2_Copy10" Content="Temsilciler" HorizontalAlignment="Left" Margin="461,470,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="label2_Copy10_MouseLeftButtonUp" Width="150"/>
+        <StackPanel Cursor="Hand" HorizontalAlignment="Left" Height="60" Margin="714,456,0,0" Background="#57dc27" VerticalAlignment="Top" Width="235" MouseLeftButtonUp="label2_Copy11_MouseLeftButtonUp"/>
+        <Image Cursor="Hand" x:Name="image2_Copy11" HorizontalAlignment="Left" Height="50" Margin="720,460,0,0" VerticalAlignment="Top" Width="50" Source="/OFB.WPF;component/Images/teaching.png" MouseLeftButtonUp="label2_Copy11_MouseLeftButtonUp"/>
+        <Label Cursor="Hand" x:Name="label2_Copy11" Content="Events" HorizontalAlignment="Left" Margin="799,470,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Netsis Tahoma - AZ" Foreground="White" MouseLeftButtonUp="label2_Copy11_MouseLeftButtonUp" Width="150"/>
+
+    </Grid>
+</UserControl>

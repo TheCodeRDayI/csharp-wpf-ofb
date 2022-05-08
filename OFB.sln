@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFB.WPF", "OFB.WPF\OFB.WPF.csproj", "{15122E87-1FE4-4B18-9BA8-9E0404F5C592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OFB.Data", "OFB.Data\OFB.Data.csproj", "{FD2FACD6-E60C-4162-9A73-FA1C517E20D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15122E87-1FE4-4B18-9BA8-9E0404F5C592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15122E87-1FE4-4B18-9BA8-9E0404F5C592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15122E87-1FE4-4B18-9BA8-9E0404F5C592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15122E87-1FE4-4B18-9BA8-9E0404F5C592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2FACD6-E60C-4162-9A73-FA1C517E20D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2FACD6-E60C-4162-9A73-FA1C517E20D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2FACD6-E60C-4162-9A73-FA1C517E20D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2FACD6-E60C-4162-9A73-FA1C517E20D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

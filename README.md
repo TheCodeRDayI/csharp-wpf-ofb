@@ -4,7 +4,10 @@ With this project that I did in my spare time in high school, I wanted to develo
 # Solition Explorer / Layered Architecture
 ![screenshot.png](OFB_IMG/1.PNG),
 
-if you want to change the outputs all you have to do is:
+# DataBase
+Previously MS-SQL was used, but I had to switch to MySQL.
+
+
 ```ino
 #define red 9
 #define green 10

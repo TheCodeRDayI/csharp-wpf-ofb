@@ -1,7 +1,7 @@
 # Project purpose
 With this project that I did in my spare time in high school, I wanted to develop a project that my high school teacher could use as a resource for new students.
 
-# Solition Explorer
+# Solition Explorer / Layered Architecture
 ![screenshot.png](OFB_IMG/1.PNG),
 
 if you want to change the outputs all you have to do is:

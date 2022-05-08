@@ -1,5 +1,6 @@
 # Project purpose
 With this project that I did in my spare time in high school, I wanted to develop a project that my high school teacher could use as a resource for new students.
+Since it is the first project, there may be mistakes and omissions.
 
 # Solition Explorer / Layered Architecture
 ![screenshot.png](OFB_IMG/1.PNG),
@@ -7,11 +8,16 @@ With this project that I did in my spare time in high school, I wanted to develo
 # DataBase
 Previously MS-SQL was used, but I had to switch to MySQL.
 
-
-```ino
-#define red 9
-#define green 10
-#define blue 11
+# Edit DataBase Info
+OFB.Data/Sql/SqlBaglanti.cs
+```cs
+  #region MYSQL_Local
+  using (var baglanti = new MySqlConnection("SERVER=127.0.0.1;PORT=3306;DATABASE=ofb;UID=root;PWD=mysql;"))
+  {
+      baglanti.Open();
+      return baglanti;
+  }
+  #endregion
 ```
 
 # Images

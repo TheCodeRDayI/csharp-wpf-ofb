@@ -8,6 +8,16 @@ Since it is the first project, there may be mistakes and omissions.
 # DataBase
 Previously MS-SQL was used, but I had to switch to MySQL.
 
+# Used Packets
+* [FakeData.1.0.0](https://www.nuget.org/packages/FakeData/)
+* [iTextSharp.5.5.13.1](https://www.nuget.org/packages/iTextSharp/)
+* [QRCoder.1.3.9](https://www.nuget.org/packages/QRCoder/)
+* [WpfAnimatedGif.1.4.18](https://www.nuget.org/packages/WpfAnimatedGif/)
+
+# Used .dll
+* MySql.Data.dll
+* webcam_capture.dll
+
 # Edit DataBase Info
 OFB.Data/Sql/SqlBaglanti.cs
 ```cs
